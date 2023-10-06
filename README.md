@@ -2,7 +2,7 @@
 
 **`Junior Front-End Web Developer`**
 
-A passionate and driven Junior Front-End Web Developer with a strong desire to create engaging and user-friendly web experiences. I believe in the power of technology to transform ideas into reality and am dedicated to contributing to the ever-evolving world of web development
+A passionate and driven Junior Front-End Web Developer with a strong desire to create engaging and user-friendly web experiences. I believe in the power of technology to transform ideas into reality and am dedicated to contributing to the ever-evolving world of web development.
 
 ---
 
